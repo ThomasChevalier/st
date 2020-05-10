@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "FiraCode:style=SemiBold:pixelsize=12:antialias=true:autohint=true";
+static char *font = "FiraCode:style=Medium:pixelsize=12:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
